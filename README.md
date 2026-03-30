@@ -16,7 +16,7 @@ J'ai téléchargé et installé le SDK .NET 10 depuis https://dotnet.microsoft.c
 
 ## 5. Dépôt GitHub
 
-Lien du dépôt : https://github.com/oyabun-dev/tp_c#
+Lien du dépôt : https://github.com/oyabun-dev/BoutiqueDiayma2025
 
 ## 6. Bugs trouvés
 
@@ -58,4 +58,4 @@ L'exécutable se trouve dans bin/Release/net10.0/win-x64/publish/
 
 ## 10. Lien vers l'exécutable
 
-Lien Google Drive : 
+Lien Google Drive : https://drive.google.com/file/d/1qDoS_POFWycJcFeF6ZgXPSx_GzOjWOkU/view?usp=drive_link
